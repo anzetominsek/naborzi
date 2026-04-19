@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Admin — Arhiv letnih poročil</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #f5f4f1;
+    --surface: #fafaf8;
+    --border: #e0ddd7;
+    --border-light: #ece9e3;
+    --text: #111110;
+    --text-muted: #6b6860;
+    --text-faint: #9e9b94;
+    --accent-light: #f0efe9;
+    --green: #2a5f3f;
+    --green-light: #e8f2ec;
+    --red: #8b2020;
+    --red-light: #fdeaea;
+    --chrome-bg: #111110;
+    --chrome-border: #2a2a28;
+  }
+
+  body {
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* ── Title bar ── */
+  .titlebar {
+    background: var(--chrome-bg);
+    height: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  .titlebar h1 {
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  .titlebar h1 span {
+    color: rgba(255,255,255,0.35);
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    text-transform: none;
+    margin-left: 14px;
+  }
+
+  /* ── Address bar ── */
+  .addressbar {
+    background: var(--chrome-bg);
+    border-bottom: 1px solid var(--chrome-border);
+    padding: 8px 16px;
+    display: flex;
+    align-items: center;
+  }
+  .address-field {
+    flex: 1;
+    height: 30px;
+    border: 1px solid #3a3a38;
+    border-radius: 4px;
+    background: white;
+    padding: 0 12px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+    color: var(--text);
+    outline: none;
+  }
+
+  /* ── Content ── */
+  .content {
+    max-width: 700px;
+    margin: 32px auto;
+    padding: 0 24px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    flex: 1;
+  }
+
+  /* ── Card ── */
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 20px 22px;
+  }
+  .card-title {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    margin-bottom: 16px;
+  }
+
+  /* ── Form ── */
+  .form-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .form-grid.three { grid-template-columns: 1fr 1fr 1fr; }
+  .form-group { display: flex; flex-direction: column; gap: 5px; }
+  label { font-size: 11px; font-weight: 600; color: var(--text-faint); text-transform: uppercase; letter-spacing: 0.05em; }
+  input[type=text], input[type=password], select {
+    height: 34px; border: 1px solid var(--border); border-radius: 5px;
+    background: white; padding: 0 12px; font-size: 13px;
+    font-family: 'Inter', sans-serif; color: var(--text); outline: none;
+    transition: border-color 0.15s;
+  }
+  input[type=text]:focus, input[type=password]:focus, select:focus { border-color: var(--text); }
+  input::placeholder { color: var(--text-faint); }
+
+  .btn {
+    height: 34px; padding: 0 16px; border: 1px solid var(--border);
+    border-radius: 5px; background: var(--chrome-bg); color: white;
+    font-size: 13px; font-weight: 500; font-family: 'Inter', sans-serif;
+    cursor: pointer; transition: opacity 0.15s; white-space: nowrap;
+  }
+  .btn:hover { opacity: 0.8; }
+  .btn:disabled { opacity: 0.35; cursor: default; }
+  .btn-ghost { background: white; color: var(--text); }
+  .btn-ghost:hover { background: var(--bg); opacity: 1; }
+
+  .inline-row { display: flex; gap: 8px; align-items: flex-end; }
+  .inline-row > *:first-child { flex: 1; }
+
+  /* ── Pills ── */
+  .status-pill {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 12px; font-weight: 500; padding: 4px 10px;
+    border-radius: 20px; margin-top: 10px;
+  }
+  .pill-ok       { background: var(--green-light); color: var(--green); }
+  .pill-err      { background: var(--red-light); color: var(--red); }
+  .pill-checking { background: var(--accent-light); color: var(--text-muted); }
+
+  /* ── Filename preview ── */
+  .filename-preview {
+    margin-top: 12px; padding: 10px 14px; background: white;
+    border: 1px solid var(--border); border-radius: 5px;
+    font-size: 13px; color: var(--text-muted);
+    display: flex; align-items: center; gap: 8px;
+  }
+  .filename-preview strong { color: var(--text); font-weight: 600; }
+  .filename-preview .path { color: var(--text-faint); font-size: 11px; margin-left: auto; }
+
+  /* ── Drop zone ── */
+  .dropzone {
+    border: 2px dashed var(--border); border-radius: 6px; padding: 28px;
+    text-align: center; cursor: pointer; background: white; margin-top: 14px;
+    transition: border-color 0.15s, background 0.15s;
+  }
+  .dropzone:hover, .dropzone.dragover { border-color: var(--text); background: var(--accent-light); }
+  .dropzone-title { font-size: 13px; font-weight: 600; color: var(--text); margin-bottom: 3px; }
+  .dropzone-sub { font-size: 12px; color: var(--text-faint); }
+  .dropzone input[type=file] { display: none; }
+
+  .selected-file {
+    margin-top: 10px; padding: 10px 14px; background: white;
+    border: 1px solid var(--border); border-radius: 5px;
+    display: flex; align-items: center; gap: 10px; font-size: 13px;
+  }
+  .selected-file-name { font-weight: 500; flex: 1; }
+  .selected-file-size { color: var(--text-faint); font-size: 11px; }
+  .selected-file-clear {
+    background: none; border: none; cursor: pointer; color: var(--text-faint);
+    font-size: 18px; width: 24px; height: 24px;
+    display: flex; align-items: center; justify-content: center; border-radius: 3px;
+  }
+  .selected-file-clear:hover { background: var(--red-light); color: var(--red); }
+
+  /* ── Publish ── */
+  .publish-bar { display: flex; align-items: center; gap: 14px; }
+  .publish-btn {
+    height: 40px; padding: 0 28px; border: none; border-radius: 6px;
+    background: var(--chrome-bg); color: white; font-size: 14px; font-weight: 600;
+    font-family: 'Inter', sans-serif; cursor: pointer; transition: opacity 0.15s;
+  }
+  .publish-btn:hover { opacity: 0.8; }
+  .publish-btn:disabled { opacity: 0.3; cursor: default; }
+  .publish-note { font-size: 12px; color: var(--text-faint); }
+
+  /* ── Log ── */
+  .log {
+    background: #1a1a18; border-radius: 6px; padding: 14px 16px;
+    font-size: 12px; font-family: 'SF Mono', 'Fira Code', monospace;
+    color: #a8e6b8; max-height: 200px; overflow-y: auto;
+    display: none; line-height: 1.7; margin-top: 14px;
+  }
+  .log.visible { display: block; }
+  .log-line { display: block; }
+  .log-line.err  { color: #f0a0a0; }
+  .log-line.ok   { color: #a8e6b8; }
+  .log-line.info { color: #a0c4f0; }
+
+  /* ── Status bar ── */
+  .statusbar {
+    background: var(--chrome-bg); border-top: 1px solid var(--chrome-border);
+    padding: 10px 16px; display: flex; flex-direction: column;
+    align-items: center; justify-content: center; gap: 5px;
+    font-size: 12px; color: #ffffff; line-height: 1.5; margin-top: auto;
+  }
+  .statusbar-row { display: flex; align-items: center; gap: 10px; }
+  .status-sep { color: rgba(255,255,255,0.3); }
+  .status-meta { color: rgba(255,255,255,0.5); font-size: 11px; }
+  .statusbar a { color: rgba(255,255,255,0.75); text-decoration: none; border-bottom: 1px solid rgba(255,255,255,0.3); }
+  .statusbar a:hover { color: #fff; }
+</style>
+</head>
+<body>
+
+<div class="titlebar">
+  <h1>Arhiv letnih poročil <span>— Admin</span></h1>
+</div>
+<div class="addressbar">
+  <input class="address-field" readonly value="admin.html" />
+</div>
+
+<div class="content">
+
+  <!-- 1. GitHub -->
+  <div class="card">
+    <div class="card-title">GitHub povezava</div>
+    <div class="form-grid">
+      <div class="form-group">
+        <label>Repozitorij</label>
+        <input type="text" id="gh-repo" value="anzetominsek/naborzi" />
+      </div>
+      <div class="form-group">
+        <label>GitHub Token</label>
+        <div class="inline-row">
+          <input type="password" id="gh-token" placeholder="ghp_..." />
+          <button class="btn btn-ghost" onclick="testConnection()">Preveri</button>
+        </div>
+      </div>
+    </div>
+    <div id="conn-status"></div>
+  </div>
+
+  <!-- 2. New company -->
+  <div class="card">
+    <div class="card-title">Novo podjetje (samo če še ne obstaja)</div>
+    <div class="form-grid three">
+      <div class="form-group">
+        <label>Ime podjetja</label>
+        <input type="text" id="new-name" placeholder="Krka d.d." />
+      </div>
+      <div class="form-group">
+        <label>Ticker</label>
+        <input type="text" id="new-ticker" placeholder="KRKG" />
+      </div>
+      <div class="form-group">
+        <label>&nbsp;</label>
+        <button class="btn" onclick="addCompany()">Dodaj podjetje</button>
+      </div>
+    </div>
+    <div id="company-msg" style="margin-top:8px;font-size:12px;"></div>
+  </div>
+
+  <!-- 3. Upload -->
+  <div class="card">
+    <div class="card-title">Naloži dokument</div>
+    <div class="form-grid">
+      <div class="form-group">
+        <label>Podjetje</label>
+        <select id="doc-company" onchange="updatePreview()">
+          <option value="">— Izberi podjetje —</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label>Vrsta dokumenta</label>
+        <select id="doc-type" onchange="toggleCustomLabel(); updatePreview()">
+          <option value="letno-porocilo">Letno poročilo</option>
+          <option value="q1-porocilo">Q1 poročilo</option>
+          <option value="q2-porocilo">Q2 poročilo</option>
+          <option value="q3-porocilo">Q3 poročilo</option>
+          <option value="q4-porocilo">Q4 poročilo</option>
+          <option value="ipo-brosura">IPO brošura</option>
+          <option value="drugo">Drugo</option>
+        </select>
+      </div>
+      <div class="form-group" id="custom-label-group" style="display:none">
+        <label>Opis (za Drugo)</label>
+        <input type="text" id="doc-custom-label" placeholder="npr. Svet skupščine 41" oninput="updatePreview()" />
+      </div>
+      <div class="form-group">
+        <label>Leto</label>
+        <select id="doc-year" onchange="updatePreview()"></select>
+      </div>
+      <div class="form-group">
+        <label>Format</label>
+        <select id="doc-format" onchange="updatePreview()">
+          <option value="pdf">PDF</option>
+          <option value="md">MD (AI readable)</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="filename-preview">
+      <span id="preview-icon">📄</span>
+      <strong id="preview-name">—</strong>
+      <span class="path" id="preview-path"></span>
+    </div>
+
+    <div class="dropzone" id="dropzone"
+      onclick="document.getElementById('file-input').click()"
+      ondragover="onDragOver(event)" ondragleave="onDragLeave(event)" ondrop="onDrop(event)">
+      <div class="dropzone-title">Povleci datoteko sem ali klikni za izbiro</div>
+      <div class="dropzone-sub">PDF ali MD datoteka</div>
+      <input type="file" id="file-input" accept=".pdf,.md" onchange="onFileInput(event)" />
+    </div>
+    <div id="selected-file-display"></div>
+  </div>
+
+  <!-- 4. Publish -->
+  <div class="card">
+    <div class="card-title">Objavi</div>
+    <div class="publish-bar">
+      <button class="publish-btn" id="publish-btn" onclick="publish()" disabled>⬆ Objavi v GitHub</button>
+      <span class="publish-note" id="publish-note">Izpolni obrazec in izberi datoteko.</span>
+    </div>
+    <div class="log" id="log"></div>
+  </div>
+
+</div>
+
+<div class="statusbar">
+  <div class="statusbar-row">
+    <span id="status-count">—</span>
+    <span class="status-sep">|</span>
+    <span id="status-selected">Nič ni izbrano</span>
+  </div>
+  <div class="statusbar-row status-meta">
+    <span>Nazadnje posodobljeno: april 2026</span>
+    <span class="status-sep">·</span>
+    <span>Avtor: <a href="https://www.naborzi.si" target="_blank">www.naborzi.si</a></span>
+    <span class="status-sep">·</span>
+    <a href="https://forms.gle/Uk7mNQ3jgNQZ2dhK9" target="_blank">Kontakt</a>
+  </div>
+</div>
+
+<script>
+const BASE_URL = 'https://data.naborzi.si';
+const REPO     = () => document.getElementById('gh-repo').value.trim();
+const TOKEN    = () => document.getElementById('gh-token').value.trim();
+
+let companies    = [];
+let selectedFile = null;
+
+// ── Year dropdown ─────────────────────────────────────────────────────────
+(function() {
+  const sel = document.getElementById('doc-year');
+  const now = new Date().getFullYear();
+  for (let y = now; y >= 2000; y--) {
+    const o = document.createElement('option');
+    o.value = y; o.textContent = y;
+    sel.appendChild(o);
+  }
+})();
+
+// ── GitHub helpers ────────────────────────────────────────────────────────
+async function ghFetch(path, opts = {}) {
+  const r = await fetch(`https://api.github.com/repos/${REPO()}${path}`, {
+    ...opts,
+    headers: {
+      Authorization: `Bearer ${TOKEN()}`,
+      Accept: 'application/vnd.github+json',
+      'Content-Type': 'application/json',
+      ...(opts.headers || {})
+    }
+  });
+  if (!r.ok) { const e = await r.json().catch(() => ({})); throw new Error(e.message || r.statusText); }
+  return r.json();
+}
+
+async function getFileSha(path) {
+  try { return (await ghFetch(`/contents${path}`)).sha; }
+  catch { return null; }
+}
+
+async function putFile(path, message, content, sha) {
+  const body = { message, content };
+  if (sha) body.sha = sha;
+  return ghFetch(`/contents${path}`, { method: 'PUT', body: JSON.stringify(body) });
+}
+
+function toBase64(file) {
+  return new Promise((res, rej) => {
+    const r = new FileReader();
+    r.onload = () => res(r.result.split(',')[1]);
+    r.onerror = rej;
+    r.readAsDataURL(file);
+  });
+}
+
+function strToBase64(str) {
+  return btoa(unescape(encodeURIComponent(str)));
+}
+
+// ── Test connection ───────────────────────────────────────────────────────
+async function testConnection() {
+  const el = document.getElementById('conn-status');
+  el.innerHTML = '<span class="status-pill pill-checking">Preverjam…</span>';
+  try {
+    await ghFetch('');
+    try {
+      const f = await ghFetch('/contents/data.json');
+      companies = JSON.parse(decodeURIComponent(escape(atob(f.content.replace(/\n/g,'')))));
+    } catch { companies = []; }
+    populateCompanySelect();
+    updateStatusBar();
+    el.innerHTML = `<span class="status-pill pill-ok">✓ Povezava OK · ${companies.length} podjetij naloženih</span>`;
+    checkReady();
+  } catch(e) {
+    el.innerHTML = `<span class="status-pill pill-err">✗ ${e.message}</span>`;
+  }
+}
+
+// ── Company select ────────────────────────────────────────────────────────
+function populateCompanySelect() {
+  const sel = document.getElementById('doc-company');
+  const cur = sel.value;
+  sel.innerHTML = '<option value="">— Izberi podjetje —</option>' +
+    [...companies].sort((a,b) => a.name.localeCompare(b.name,'sl'))
+      .map(c => `<option value="${c.id}">${c.name} [${c.ticker}]</option>`).join('');
+  if (cur) sel.value = cur;
+}
+
+// ── Add company ───────────────────────────────────────────────────────────
+function addCompany() {
+  const name   = document.getElementById('new-name').value.trim();
+  const ticker = document.getElementById('new-ticker').value.trim().toUpperCase();
+  const msg    = document.getElementById('company-msg');
+  if (!name || !ticker) { msg.innerHTML = '<span style="color:var(--red)">Vnesi ime in ticker.</span>'; return; }
+  const id = name.toLowerCase().split(/[\s\.]/)[0].replace(/[^a-z0-9]/g,'');
+  if (companies.find(c => c.id === id)) {
+    msg.innerHTML = `<span style="color:var(--red)">Podjetje z ID "${id}" že obstaja.</span>`; return;
+  }
+  companies.push({ id, name, ticker, files: [] });
+  populateCompanySelect();
+  document.getElementById('doc-company').value = id;
+  msg.innerHTML = `<span style="color:var(--green)">✓ ${name} dodano. Objavi, da se shrani.</span>`;
+  document.getElementById('new-name').value = '';
+  document.getElementById('new-ticker').value = '';
+  updatePreview(); checkReady();
+}
+
+// ── Filename logic ────────────────────────────────────────────────────────
+function slugify(str) {
+  return str.toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g,'')
+    .replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');
+}
+
+function buildFilename() {
+  const companyId = document.getElementById('doc-company').value;
+  const docType   = document.getElementById('doc-type').value;
+  const year      = document.getElementById('doc-year').value;
+  const format    = document.getElementById('doc-format').value;
+  const custom    = slugify(document.getElementById('doc-custom-label').value.trim());
+  if (!companyId || !year) return null;
+  const typePart  = docType === 'drugo' && custom ? custom : docType;
+  return `${companyId}-${typePart}-${year}.${format}`;
+}
+
+function updatePreview() {
+  const name      = buildFilename();
+  const companyId = document.getElementById('doc-company').value;
+  document.getElementById('preview-name').textContent = name || '—';
+  document.getElementById('preview-path').textContent = name ? `/${companyId}/${name}` : '';
+  document.getElementById('preview-icon').textContent = name && name.endsWith('.md') ? '📝' : '📄';
+  checkReady();
+}
+
+function toggleCustomLabel() {
+  const show = document.getElementById('doc-type').value === 'drugo';
+  document.getElementById('custom-label-group').style.display = show ? 'flex' : 'none';
+}
+
+// ── File handling ─────────────────────────────────────────────────────────
+function onDragOver(e)  { e.preventDefault(); document.getElementById('dropzone').classList.add('dragover'); }
+function onDragLeave()  { document.getElementById('dropzone').classList.remove('dragover'); }
+function onDrop(e)      { e.preventDefault(); onDragLeave(); setFile(e.dataTransfer.files[0]); }
+function onFileInput(e) { setFile(e.target.files[0]); e.target.value = ''; }
+
+function setFile(f) {
+  if (!f) return;
+  selectedFile = f;
+  const ext = f.name.split('.').pop().toLowerCase();
+  if (ext === 'pdf' || ext === 'md') { document.getElementById('doc-format').value = ext; updatePreview(); }
+  document.getElementById('selected-file-display').innerHTML = `
+    <div class="selected-file">
+      <span>${ext === 'pdf' ? '📄' : '📝'}</span>
+      <span class="selected-file-name">${f.name}</span>
+      <span class="selected-file-size">${(f.size/1024).toFixed(0)} KB</span>
+      <button class="selected-file-clear" onclick="clearFile()">×</button>
+    </div>`;
+  checkReady();
+}
+
+function clearFile() {
+  selectedFile = null;
+  document.getElementById('selected-file-display').innerHTML = '';
+  checkReady();
+}
+
+// ── Ready check ───────────────────────────────────────────────────────────
+function checkReady() {
+  const fname = buildFilename();
+  const ready = !!selectedFile && !!fname && !!TOKEN() && !!REPO();
+  document.getElementById('publish-btn').disabled = !ready;
+  document.getElementById('publish-note').textContent = ready
+    ? `Pripravljeno → ${fname}`
+    : 'Izpolni obrazec, izberi datoteko in preveri GitHub povezavo.';
+}
+
+// ── Status bar ────────────────────────────────────────────────────────────
+function updateStatusBar() {
+  document.getElementById('status-count').textContent = companies.length + ' podjetij';
+  const total = companies.reduce((s,c) => s + (c.files||[]).length, 0);
+  document.getElementById('status-selected').textContent = total + ' datotek';
+}
+
+// ── Log ───────────────────────────────────────────────────────────────────
+function log(msg, type='info') {
+  const el = document.getElementById('log');
+  el.classList.add('visible');
+  el.innerHTML += `<span class="log-line ${type}">${msg}</span>\n`;
+  el.scrollTop = el.scrollHeight;
+}
+
+// ── Manifest builder ──────────────────────────────────────────────────────
+function buildManifest() {
+  const today = new Date().toISOString().split('T')[0];
+  const docs  = [];
+  companies.forEach(c => {
+    (c.files||[]).forEach(f => {
+      docs.push({
+        company:  c.name,
+        ticker:   c.ticker,
+        year:     f.year   || null,
+        docType:  f.docType|| null,
+        format:   f.type,
+        filename: f.name,
+        url:      `${BASE_URL}/${c.id}/${f.name}`
+      });
+    });
+  });
+  docs.sort((a,b) => a.company.localeCompare(b.company,'sl') || (b.year||0)-(a.year||0));
+  return {
+    archive:        'Arhiv letnih poročil LJSE',
+    description:    'Javna baza letnih poročil in finančnih dokumentov podjetij, ki kotirajo na Ljubljanski borzi (LJSE). MD datoteke so optimizirane za branje z AI.',
+    source:         BASE_URL,
+    updated:        today,
+    totalCompanies: companies.length,
+    totalDocuments: docs.length,
+    documents:      docs
+  };
+}
+
+// ── Publish ───────────────────────────────────────────────────────────────
+async function publish() {
+  const btn       = document.getElementById('publish-btn');
+  const companyId = document.getElementById('doc-company').value;
+  const docType   = document.getElementById('doc-type').value;
+  const year      = parseInt(document.getElementById('doc-year').value);
+  const format    = document.getElementById('doc-format').value;
+  const filename  = buildFilename();
+  const filePath  = `/${companyId}/${filename}`;
+
+  btn.disabled = true;
+  document.getElementById('log').innerHTML = '';
+  log('Začenjam objavo…', 'info');
+
+  try {
+    // 1. Upload file
+    log(`Nalagam ${filePath}…`);
+    const b64     = await toBase64(selectedFile);
+    const fileSha = await getFileSha(filePath);
+    await putFile(filePath, `Dodaj ${filename}`, b64, fileSha);
+    log('✓ Datoteka naložena', 'ok');
+
+    // 2. Update companies in memory
+    const company = companies.find(c => c.id === companyId);
+    if (company && !company.files.find(f => f.name === filename)) {
+      company.files.push({ name: filename, type: format, docType, year, url: `/${companyId}/${filename}` });
+    }
+
+    // 3. Save data.json
+    log('Posodabljam data.json…');
+    const dataSha = await getFileSha('/data.json');
+    await putFile('/data.json', `Posodobi data.json — ${filename}`,
+      strToBase64(JSON.stringify(companies, null, 2)), dataSha);
+    log('✓ data.json posodobljen', 'ok');
+
+    // 4. Save manifest.json
+    log('Gradim manifest.json…');
+    const manifestSha = await getFileSha('/manifest.json');
+    await putFile('/manifest.json', 'Posodobi manifest.json',
+      strToBase64(JSON.stringify(buildManifest(), null, 2)), manifestSha);
+    log('✓ manifest.json posodobljen', 'ok');
+
+    log('🎉 Vse objavljeno! GitHub Pages se posodobi v ~1 minuti.', 'ok');
+    clearFile();
+    updateStatusBar();
+    checkReady();
+  } catch(e) {
+    log(`✗ Napaka: ${e.message}`, 'err');
+    btn.disabled = false;
+    checkReady();
+  }
+}
+
+// ── Init ──────────────────────────────────────────────────────────────────
+updatePreview();
+</script>
+</body>
+</html>
