@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://data.naborzi.si/sitemap.xml
+
+# AI crawlers — full index available at:
+# https://data.naborzi.si/manifest.json
+# https://data.naborzi.si/llms.txt
+# https://data.naborzi.si/index-static.html
