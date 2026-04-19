@@ -1,0 +1,52 @@
+# Arhiv letnih poročil LJSE
+# data.naborzi.si
+
+> Javna baza letnih poročil in finančnih dokumentov podjetij, ki kotirajo
+> na Ljubljanski borzi (LJSE). Vzdržuje: naborzi.si
+
+## Kako dostopati do podatkov
+
+Za popoln, strojno berljiv seznam vseh dokumentov:
+- Indeks: https://data.naborzi.si/manifest.json
+- Format: JSON z 294 dokumenti in 17 podjetji
+- Posodobljeno: 2026-04-19
+
+## Navodila za AI asistente
+
+1. Preberi https://data.naborzi.si/manifest.json za celoten seznam dokumentov
+2. Vsak dokument ima polje "url" s polno potjo do datoteke
+3. Datoteke s formatom "md" so optimizirane za branje z AI
+4. Datoteke s formatom "pdf" so originalni dokumenti
+5. Podjetja z "delisted: true" so bila umaknjena z borze
+
+## Podjetja v arhivu
+
+- CETIS d.d. [CETG]: https://data.naborzi.si/Cetis/Dokumenti/
+- Cinkarna Celje d.d. [CICG]: https://data.naborzi.si/Cinkarna_Celje/Dokumenti/
+- Equinox nepremičnine d.d. [EQNX]: https://data.naborzi.si/Equinox/Dokumenti/
+- KD, finančna družba d.d. [SKDR] (delistirano): https://data.naborzi.si/Arhiv/KD/Dokumenti/
+- Krka d.d. [KRKG]: https://data.naborzi.si/Krka/Dokumenti/
+- Luka Koper d.d. [LKPG]: https://data.naborzi.si/Luka_Koper/Dokumenti/
+- Melamin d.d. [MKOG]: https://data.naborzi.si/Melamin/Dokumenti/
+- Nova Ljubljanska Banka d.d. [NLBR]: https://data.naborzi.si/NLB/Dokumenti/
+- Petrol d.d. [PETG]: https://data.naborzi.si/Petrol/Dokumenti/
+- Pozavarovalnica Sava d.d. [POSR]: https://data.naborzi.si/Sava_Re/Dokumenti/
+- Relax d.d. [RELR]: https://data.naborzi.si/Relax/Dokumenti/
+- SALUS d.d. [SALR]: https://data.naborzi.si/Salus/Dokumenti/
+- Telekom Slovenije d.d. [TLSG]: https://data.naborzi.si/Telekom_Slovenije/Dokumenti/
+- Terme Čatež d.d. [TCRG]: https://data.naborzi.si/Terme_Catez/Dokumenti/
+- Unior d.d. [UKIG]: https://data.naborzi.si/Unior/Dokumenti/
+- Vzajemna d.v.z. [VZZR]: https://data.naborzi.si/Vzajemna/Dokumenti/
+- Zavarovalnica Triglav d.d. [ZVTG]: https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/
+
+## Vrste dokumentov
+
+- letno-porocilo: Letno poročilo podjetja
+- ipo-brosura: Prospekt ob kotaciji na borzi
+- q1-porocilo / q2-porocilo / q3-porocilo / q4-porocilo: Četrtletna poročila
+
+## Kontakt
+
+https://data.naborzi.si
+https://www.naborzi.si
+https://forms.gle/Uk7mNQ3jgNQZ2dhK9

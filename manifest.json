@@ -1,0 +1,2952 @@
+{
+  "archive": "Arhiv letnih poročil LJSE",
+  "description": "Javna baza letnih poročil in finančnih dokumentov podjetij, ki kotirajo na Ljubljanski borzi (LJSE). MD datoteke so optimizirane za branje z AI.",
+  "source": "https://data.naborzi.si",
+  "maintainer": "naborzi.si",
+  "contact": "https://forms.gle/Uk7mNQ3jgNQZ2dhK9",
+  "updated": "2026-04-19",
+  "totalCompanies": 17,
+  "totalDocuments": 294,
+  "documents": [
+    {
+      "company": "CETIS d.d.",
+      "ticker": "CETG",
+      "delisted": false,
+      "year": 2024,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cetis_letno_porocilo_2024.pdf",
+      "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2024.pdf"
+    },
+    {
+      "company": "CETIS d.d.",
+      "ticker": "CETG",
+      "delisted": false,
+      "year": 2023,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cetis_letno_porocilo_2023.pdf",
+      "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2023.pdf"
+    },
+    {
+      "company": "CETIS d.d.",
+      "ticker": "CETG",
+      "delisted": false,
+      "year": 2022,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cetis_letno_porocilo_2022.pdf",
+      "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2022.pdf"
+    },
+    {
+      "company": "CETIS d.d.",
+      "ticker": "CETG",
+      "delisted": false,
+      "year": 2021,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cetis_letno_porocilo_2021.pdf",
+      "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2021.pdf"
+    },
+    {
+      "company": "CETIS d.d.",
+      "ticker": "CETG",
+      "delisted": false,
+      "year": 2020,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cetis_letno_porocilo_2020.pdf",
+      "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2020.pdf"
+    },
+    {
+      "company": "CETIS d.d.",
+      "ticker": "CETG",
+      "delisted": false,
+      "year": 2019,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cetis_letno_porocilo_2019.pdf",
+      "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2019.pdf"
+    },
+    {
+      "company": "CETIS d.d.",
+      "ticker": "CETG",
+      "delisted": false,
+      "year": 2018,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cetis_letno_porocilo_2018.pdf",
+      "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2018.pdf"
+    },
+    {
+      "company": "CETIS d.d.",
+      "ticker": "CETG",
+      "delisted": false,
+      "year": 2017,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cetis_letno_porocilo_2017.pdf",
+      "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2017.pdf"
+    },
+    {
+      "company": "CETIS d.d.",
+      "ticker": "CETG",
+      "delisted": false,
+      "year": 2016,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cetis_letno_porocilo_2016.pdf",
+      "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2016.pdf"
+    },
+    {
+      "company": "CETIS d.d.",
+      "ticker": "CETG",
+      "delisted": false,
+      "year": 2015,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cetis_letno_porocilo_2015.pdf",
+      "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2015.pdf"
+    },
+    {
+      "company": "CETIS d.d.",
+      "ticker": "CETG",
+      "delisted": false,
+      "year": 2014,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cetis_letno_porocilo_2014.pdf",
+      "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2014.pdf"
+    },
+    {
+      "company": "CETIS d.d.",
+      "ticker": "CETG",
+      "delisted": false,
+      "year": 2013,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cetis_letno_porocilo_2013.pdf",
+      "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2013.pdf"
+    },
+    {
+      "company": "CETIS d.d.",
+      "ticker": "CETG",
+      "delisted": false,
+      "year": 2012,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cetis_letno_porocilo_2012.pdf",
+      "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2012.pdf"
+    },
+    {
+      "company": "CETIS d.d.",
+      "ticker": "CETG",
+      "delisted": false,
+      "year": 2011,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cetis_letno_porocilo_2011.pdf",
+      "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2011.pdf"
+    },
+    {
+      "company": "CETIS d.d.",
+      "ticker": "CETG",
+      "delisted": false,
+      "year": 2010,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cetis_letno_porocilo_2010.pdf",
+      "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2010.pdf"
+    },
+    {
+      "company": "CETIS d.d.",
+      "ticker": "CETG",
+      "delisted": false,
+      "year": 2009,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cetis_letno_porocilo_2009.pdf",
+      "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2009.pdf"
+    },
+    {
+      "company": "CETIS d.d.",
+      "ticker": "CETG",
+      "delisted": false,
+      "year": 2008,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cetis_letno_porocilo_2008.pdf",
+      "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2008.pdf"
+    },
+    {
+      "company": "CETIS d.d.",
+      "ticker": "CETG",
+      "delisted": false,
+      "year": 2004,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cetis_letno_porocilo_2004.pdf",
+      "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2004.pdf"
+    },
+    {
+      "company": "CETIS d.d.",
+      "ticker": "CETG",
+      "delisted": false,
+      "year": 2002,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cetis_letno_porocilo_2002.pdf",
+      "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2002.pdf"
+    },
+    {
+      "company": "Cinkarna Celje d.d.",
+      "ticker": "CICG",
+      "delisted": false,
+      "year": 2024,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cinkarna_Celje_letno_porocilo_2024.pdf",
+      "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2024.pdf"
+    },
+    {
+      "company": "Cinkarna Celje d.d.",
+      "ticker": "CICG",
+      "delisted": false,
+      "year": 2023,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cinkarna_Celje_letno_porocilo_2023.pdf",
+      "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2023.pdf"
+    },
+    {
+      "company": "Cinkarna Celje d.d.",
+      "ticker": "CICG",
+      "delisted": false,
+      "year": 2022,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cinkarna_Celje_letno_porocilo_2022.pdf",
+      "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2022.pdf"
+    },
+    {
+      "company": "Cinkarna Celje d.d.",
+      "ticker": "CICG",
+      "delisted": false,
+      "year": 2021,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cinkarna_Celje_letno_porocilo_2021.pdf",
+      "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2021.pdf"
+    },
+    {
+      "company": "Cinkarna Celje d.d.",
+      "ticker": "CICG",
+      "delisted": false,
+      "year": 2020,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cinkarna_Celje_letno_porocilo_2020.pdf",
+      "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2020.pdf"
+    },
+    {
+      "company": "Cinkarna Celje d.d.",
+      "ticker": "CICG",
+      "delisted": false,
+      "year": 2019,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cinkarna_Celje_letno_porocilo_2019.pdf",
+      "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2019.pdf"
+    },
+    {
+      "company": "Cinkarna Celje d.d.",
+      "ticker": "CICG",
+      "delisted": false,
+      "year": 2018,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cinkarna_Celje_letno_porocilo_2018.pdf",
+      "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2018.pdf"
+    },
+    {
+      "company": "Cinkarna Celje d.d.",
+      "ticker": "CICG",
+      "delisted": false,
+      "year": 2017,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cinkarna_Celje_letno_porocilo_2017.pdf",
+      "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2017.pdf"
+    },
+    {
+      "company": "Cinkarna Celje d.d.",
+      "ticker": "CICG",
+      "delisted": false,
+      "year": 2016,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cinkarna_Celje_letno_porocilo_2016.pdf",
+      "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2016.pdf"
+    },
+    {
+      "company": "Cinkarna Celje d.d.",
+      "ticker": "CICG",
+      "delisted": false,
+      "year": 2015,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cinkarna_Celje_letno_porocilo_2015.pdf",
+      "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2015.pdf"
+    },
+    {
+      "company": "Cinkarna Celje d.d.",
+      "ticker": "CICG",
+      "delisted": false,
+      "year": 2014,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cinkarna_Celje_letno_porocilo_2014.pdf",
+      "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2014.pdf"
+    },
+    {
+      "company": "Cinkarna Celje d.d.",
+      "ticker": "CICG",
+      "delisted": false,
+      "year": 2013,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cinkarna_Celje_letno_porocilo_2013.pdf",
+      "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2013.pdf"
+    },
+    {
+      "company": "Cinkarna Celje d.d.",
+      "ticker": "CICG",
+      "delisted": false,
+      "year": 2012,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cinkarna_Celje_letno_porocilo_2012.pdf",
+      "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2012.pdf"
+    },
+    {
+      "company": "Cinkarna Celje d.d.",
+      "ticker": "CICG",
+      "delisted": false,
+      "year": 2011,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cinkarna_Celje_letno_porocilo_2011.pdf",
+      "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2011.pdf"
+    },
+    {
+      "company": "Cinkarna Celje d.d.",
+      "ticker": "CICG",
+      "delisted": false,
+      "year": 2010,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cinkarna_Celje_letno_porocilo_2010.pdf",
+      "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2010.pdf"
+    },
+    {
+      "company": "Cinkarna Celje d.d.",
+      "ticker": "CICG",
+      "delisted": false,
+      "year": 2009,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cinkarna_Celje_letno_porocilo_2009.pdf",
+      "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2009.pdf"
+    },
+    {
+      "company": "Cinkarna Celje d.d.",
+      "ticker": "CICG",
+      "delisted": false,
+      "year": 2003,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cinkarna_Celje_letno_porocilo_2003.pdf",
+      "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2003.pdf"
+    },
+    {
+      "company": "Cinkarna Celje d.d.",
+      "ticker": "CICG",
+      "delisted": false,
+      "year": 2002,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Cinkarna_Celje_letno_porocilo_2002.pdf",
+      "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2002.pdf"
+    },
+    {
+      "company": "Equinox nepremičnine d.d.",
+      "ticker": "EQNX",
+      "delisted": false,
+      "year": 2025,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Equinox_letno_porocilo_2025.pdf",
+      "url": "https://data.naborzi.si/Equinox/Dokumenti/Equinox_letno_porocilo_2025.pdf"
+    },
+    {
+      "company": "Equinox nepremičnine d.d.",
+      "ticker": "EQNX",
+      "delisted": false,
+      "year": 2024,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Equinox_letno_porocilo_2024.pdf",
+      "url": "https://data.naborzi.si/Equinox/Dokumenti/Equinox_letno_porocilo_2024.pdf"
+    },
+    {
+      "company": "Equinox nepremičnine d.d.",
+      "ticker": "EQNX",
+      "delisted": false,
+      "year": 2023,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Equinox_letno_porocilo_2023.pdf",
+      "url": "https://data.naborzi.si/Equinox/Dokumenti/Equinox_letno_porocilo_2023.pdf"
+    },
+    {
+      "company": "Equinox nepremičnine d.d.",
+      "ticker": "EQNX",
+      "delisted": false,
+      "year": 2022,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Equinox_letno_porocilo_2022.pdf",
+      "url": "https://data.naborzi.si/Equinox/Dokumenti/Equinox_letno_porocilo_2022.pdf"
+    },
+    {
+      "company": "Equinox nepremičnine d.d.",
+      "ticker": "EQNX",
+      "delisted": false,
+      "year": 2021,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Equinox_letno_porocilo_2021.pdf",
+      "url": "https://data.naborzi.si/Equinox/Dokumenti/Equinox_letno_porocilo_2021.pdf"
+    },
+    {
+      "company": "Equinox nepremičnine d.d.",
+      "ticker": "EQNX",
+      "delisted": false,
+      "year": null,
+      "docType": "ipo-brosura",
+      "format": "pdf",
+      "filename": "Equinox_IPO_brosura.pdf",
+      "url": "https://data.naborzi.si/Equinox/Dokumenti/Equinox_IPO_brosura.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2024,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2024.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2024.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2023,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2023.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2023.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2022,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2022.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2022.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2021,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2021.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2021.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2020,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2020.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2020.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2019,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2019.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2019.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2018,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2018.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2018.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2017,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2017.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2017.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2016,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2016.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2016.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2015,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2015.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2015.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2014,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2014.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2014.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2013,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2013.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2013.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2012,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2012.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2012.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2011,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2011.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2011.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2010,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2010.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2010.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2009,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2009.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2009.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2008,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2008.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2008.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2007,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2007.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2007.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2006,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2006.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2006.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2005,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2005.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2005.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2004,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2004.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2004.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2003,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2003.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2003.pdf"
+    },
+    {
+      "company": "KD, finančna družba d.d.",
+      "ticker": "SKDR",
+      "delisted": true,
+      "year": 2002,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "KD_letno_porocilo_2002.pdf",
+      "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2002.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2025,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2025.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2025.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2024,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2024.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2024.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2023,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2023.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2023.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2022,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2022.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2022.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2021,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2021.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2021.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2020,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2020.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2020.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2019,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2019.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2019.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2018,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2018.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2018.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2017,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2017.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2017.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2016,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2016.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2016.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2015,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2015.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2015.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2014,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2014.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2014.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2013,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2013.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2013.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2012,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2012.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2012.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2011,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2011.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2011.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2010,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2010.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2010.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2009,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2009.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2009.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2008,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2008.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2008.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2007,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2007.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2007.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2006,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2006.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2006.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2005,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2005.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2005.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2004,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2004.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2004.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2003,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2003.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2003.pdf"
+    },
+    {
+      "company": "Krka d.d.",
+      "ticker": "KRKG",
+      "delisted": false,
+      "year": 2002,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Krka_letno_porocilo_2002.pdf",
+      "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2002.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2024,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2024.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2024.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2023,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2023.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2023.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2022,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2022.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2022.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2021,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2021.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2021.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2020,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2020.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2020.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2019,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2019.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2019.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2018,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2018.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2018.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2017,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2017.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2017.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2016,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2016.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2016.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2015,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2015.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2015.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2014,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2014.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2014.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2013,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2013.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2013.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2012,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2012.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2012.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2011,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2011.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2011.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2010,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2010.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2010.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2009,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2009.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2009.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2008,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2008.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2008.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2007,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2007.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2007.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2006,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2006.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2006.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2005,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2005.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2005.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2004,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2004.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2004.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2003,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2003.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2003.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2002,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2002.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2002.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2001,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2001.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2001.pdf"
+    },
+    {
+      "company": "Luka Koper d.d.",
+      "ticker": "LKPG",
+      "delisted": false,
+      "year": 2000,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Luka_Koper_letno_porocilo_2000.pdf",
+      "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2000.pdf"
+    },
+    {
+      "company": "Melamin d.d.",
+      "ticker": "MKOG",
+      "delisted": false,
+      "year": 2024,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Melamin_letno_porocilo_2024.pdf",
+      "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2024.pdf"
+    },
+    {
+      "company": "Melamin d.d.",
+      "ticker": "MKOG",
+      "delisted": false,
+      "year": 2023,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Melamin_letno_porocilo_2023.pdf",
+      "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2023.pdf"
+    },
+    {
+      "company": "Melamin d.d.",
+      "ticker": "MKOG",
+      "delisted": false,
+      "year": 2022,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Melamin_letno_porocilo_2022.pdf",
+      "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2022.pdf"
+    },
+    {
+      "company": "Melamin d.d.",
+      "ticker": "MKOG",
+      "delisted": false,
+      "year": 2021,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Melamin_letno_porocilo_2021.pdf",
+      "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2021.pdf"
+    },
+    {
+      "company": "Melamin d.d.",
+      "ticker": "MKOG",
+      "delisted": false,
+      "year": 2020,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Melamin_letno_porocilo_2020.pdf",
+      "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2020.pdf"
+    },
+    {
+      "company": "Melamin d.d.",
+      "ticker": "MKOG",
+      "delisted": false,
+      "year": 2019,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Melamin_letno_porocilo_2019.pdf",
+      "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2019.pdf"
+    },
+    {
+      "company": "Melamin d.d.",
+      "ticker": "MKOG",
+      "delisted": false,
+      "year": 2018,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Melamin_letno_porocilo_2018.pdf",
+      "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2018.pdf"
+    },
+    {
+      "company": "Melamin d.d.",
+      "ticker": "MKOG",
+      "delisted": false,
+      "year": 2017,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Melamin_letno_porocilo_2017.pdf",
+      "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2017.pdf"
+    },
+    {
+      "company": "Melamin d.d.",
+      "ticker": "MKOG",
+      "delisted": false,
+      "year": 2016,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Melamin_letno_porocilo_2016.pdf",
+      "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2016.pdf"
+    },
+    {
+      "company": "Melamin d.d.",
+      "ticker": "MKOG",
+      "delisted": false,
+      "year": 2015,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Melamin_letno_porocilo_2015.pdf",
+      "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2015.pdf"
+    },
+    {
+      "company": "Melamin d.d.",
+      "ticker": "MKOG",
+      "delisted": false,
+      "year": 2014,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Melamin_letno_porocilo_2014.pdf",
+      "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2014.pdf"
+    },
+    {
+      "company": "Melamin d.d.",
+      "ticker": "MKOG",
+      "delisted": false,
+      "year": 2013,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Melamin_letno_porocilo_2013.pdf",
+      "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2013.pdf"
+    },
+    {
+      "company": "Melamin d.d.",
+      "ticker": "MKOG",
+      "delisted": false,
+      "year": 2012,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Melamin_letno_porocilo_2012.pdf",
+      "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2012.pdf"
+    },
+    {
+      "company": "Melamin d.d.",
+      "ticker": "MKOG",
+      "delisted": false,
+      "year": 2011,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Melamin_letno_porocilo_2011.pdf",
+      "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2011.pdf"
+    },
+    {
+      "company": "Melamin d.d.",
+      "ticker": "MKOG",
+      "delisted": false,
+      "year": 2010,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Melamin_letno_porocilo_2010.pdf",
+      "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2010.pdf"
+    },
+    {
+      "company": "Melamin d.d.",
+      "ticker": "MKOG",
+      "delisted": false,
+      "year": 2009,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Melamin_letno_porocilo_2009.pdf",
+      "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2009.pdf"
+    },
+    {
+      "company": "Melamin d.d.",
+      "ticker": "MKOG",
+      "delisted": false,
+      "year": 2008,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Melamin_letno_porocilo_2008.pdf",
+      "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2008.pdf"
+    },
+    {
+      "company": "Melamin d.d.",
+      "ticker": "MKOG",
+      "delisted": false,
+      "year": 2002,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Melamin_letno_porocilo_2002.pdf",
+      "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2002.pdf"
+    },
+    {
+      "company": "Nova Ljubljanska Banka d.d.",
+      "ticker": "NLBR",
+      "delisted": false,
+      "year": 2025,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "NLB_letno_porocilo_2025.pdf",
+      "url": "https://data.naborzi.si/NLB/Dokumenti/NLB_letno_porocilo_2025.pdf"
+    },
+    {
+      "company": "Nova Ljubljanska Banka d.d.",
+      "ticker": "NLBR",
+      "delisted": false,
+      "year": 2024,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "NLB_letno_porocilo_2024.pdf",
+      "url": "https://data.naborzi.si/NLB/Dokumenti/NLB_letno_porocilo_2024.pdf"
+    },
+    {
+      "company": "Nova Ljubljanska Banka d.d.",
+      "ticker": "NLBR",
+      "delisted": false,
+      "year": 2023,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "NLB_letno_porocilo_2023.pdf",
+      "url": "https://data.naborzi.si/NLB/Dokumenti/NLB_letno_porocilo_2023.pdf"
+    },
+    {
+      "company": "Nova Ljubljanska Banka d.d.",
+      "ticker": "NLBR",
+      "delisted": false,
+      "year": 2022,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "NLB_letno_porocilo_2022.pdf",
+      "url": "https://data.naborzi.si/NLB/Dokumenti/NLB_letno_porocilo_2022.pdf"
+    },
+    {
+      "company": "Nova Ljubljanska Banka d.d.",
+      "ticker": "NLBR",
+      "delisted": false,
+      "year": 2021,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "NLB_letno_porocilo_2021.pdf",
+      "url": "https://data.naborzi.si/NLB/Dokumenti/NLB_letno_porocilo_2021.pdf"
+    },
+    {
+      "company": "Nova Ljubljanska Banka d.d.",
+      "ticker": "NLBR",
+      "delisted": false,
+      "year": 2020,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "NLB_letno_porocilo_2020.pdf",
+      "url": "https://data.naborzi.si/NLB/Dokumenti/NLB_letno_porocilo_2020.pdf"
+    },
+    {
+      "company": "Nova Ljubljanska Banka d.d.",
+      "ticker": "NLBR",
+      "delisted": false,
+      "year": 2019,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "NLB_letno_porocilo_2019.pdf",
+      "url": "https://data.naborzi.si/NLB/Dokumenti/NLB_letno_porocilo_2019.pdf"
+    },
+    {
+      "company": "Nova Ljubljanska Banka d.d.",
+      "ticker": "NLBR",
+      "delisted": false,
+      "year": 2018,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "NLB_letno_porocilo_2018.pdf",
+      "url": "https://data.naborzi.si/NLB/Dokumenti/NLB_letno_porocilo_2018.pdf"
+    },
+    {
+      "company": "Nova Ljubljanska Banka d.d.",
+      "ticker": "NLBR",
+      "delisted": false,
+      "year": null,
+      "docType": "ipo-brosura",
+      "format": "pdf",
+      "filename": "NLB_IPO_brosura.pdf",
+      "url": "https://data.naborzi.si/NLB/Dokumenti/NLB_IPO_brosura.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2025,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2025.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2025.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2024,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2024.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2024.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2023,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2023.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2023.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2022,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2022.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2022.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2021,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2021.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2021.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2020,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2020.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2020.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2019,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2019.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2019.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2018,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2018.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2018.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2017,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2017.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2017.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2016,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2016.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2016.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2015,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2015.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2015.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2014,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2014.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2014.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2013,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2013.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2013.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2012,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2012.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2012.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2011,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2011.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2011.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2010,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2010.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2010.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2009,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2009.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2009.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2008,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2008.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2008.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2007,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2007.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2007.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2006,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2006.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2006.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2005,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2005.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2005.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2004,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2004.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2004.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2003,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2003.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2003.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2002,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2002.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2002.pdf"
+    },
+    {
+      "company": "Petrol d.d.",
+      "ticker": "PETG",
+      "delisted": false,
+      "year": 2001,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Petrol_letno_porocilo_2001.pdf",
+      "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2001.pdf"
+    },
+    {
+      "company": "Pozavarovalnica Sava d.d.",
+      "ticker": "POSR",
+      "delisted": false,
+      "year": 2025,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Sava_Re_letno_porocilo_2025.pdf",
+      "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2025.pdf"
+    },
+    {
+      "company": "Pozavarovalnica Sava d.d.",
+      "ticker": "POSR",
+      "delisted": false,
+      "year": 2024,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Sava_Re_letno_porocilo_2024.pdf",
+      "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2024.pdf"
+    },
+    {
+      "company": "Pozavarovalnica Sava d.d.",
+      "ticker": "POSR",
+      "delisted": false,
+      "year": 2023,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Sava_Re_letno_porocilo_2023.pdf",
+      "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2023.pdf"
+    },
+    {
+      "company": "Pozavarovalnica Sava d.d.",
+      "ticker": "POSR",
+      "delisted": false,
+      "year": 2022,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Sava_Re_letno_porocilo_2022.pdf",
+      "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2022.pdf"
+    },
+    {
+      "company": "Pozavarovalnica Sava d.d.",
+      "ticker": "POSR",
+      "delisted": false,
+      "year": 2021,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Sava_Re_letno_porocilo_2021.pdf",
+      "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2021.pdf"
+    },
+    {
+      "company": "Pozavarovalnica Sava d.d.",
+      "ticker": "POSR",
+      "delisted": false,
+      "year": 2020,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Sava_Re_letno_porocilo_2020.pdf",
+      "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2020.pdf"
+    },
+    {
+      "company": "Pozavarovalnica Sava d.d.",
+      "ticker": "POSR",
+      "delisted": false,
+      "year": 2019,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Sava_Re_letno_porocilo_2019.pdf",
+      "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2019.pdf"
+    },
+    {
+      "company": "Pozavarovalnica Sava d.d.",
+      "ticker": "POSR",
+      "delisted": false,
+      "year": 2018,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Sava_Re_letno_porocilo_2018.pdf",
+      "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2018.pdf"
+    },
+    {
+      "company": "Pozavarovalnica Sava d.d.",
+      "ticker": "POSR",
+      "delisted": false,
+      "year": 2017,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Sava_Re_letno_porocilo_2017.pdf",
+      "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2017.pdf"
+    },
+    {
+      "company": "Pozavarovalnica Sava d.d.",
+      "ticker": "POSR",
+      "delisted": false,
+      "year": 2016,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Sava_Re_letno_porocilo_2016.pdf",
+      "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2016.pdf"
+    },
+    {
+      "company": "Pozavarovalnica Sava d.d.",
+      "ticker": "POSR",
+      "delisted": false,
+      "year": 2015,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Sava_Re_letno_porocilo_2015.pdf",
+      "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2015.pdf"
+    },
+    {
+      "company": "Pozavarovalnica Sava d.d.",
+      "ticker": "POSR",
+      "delisted": false,
+      "year": 2014,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Sava_Re_letno_porocilo_2014.pdf",
+      "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2014.pdf"
+    },
+    {
+      "company": "Pozavarovalnica Sava d.d.",
+      "ticker": "POSR",
+      "delisted": false,
+      "year": 2013,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Sava_Re_letno_porocilo_2013.pdf",
+      "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2013.pdf"
+    },
+    {
+      "company": "Pozavarovalnica Sava d.d.",
+      "ticker": "POSR",
+      "delisted": false,
+      "year": 2012,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Sava_Re_letno_porocilo_2012.pdf",
+      "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2012.pdf"
+    },
+    {
+      "company": "Pozavarovalnica Sava d.d.",
+      "ticker": "POSR",
+      "delisted": false,
+      "year": 2011,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Sava_Re_letno_porocilo_2011.pdf",
+      "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2011.pdf"
+    },
+    {
+      "company": "Pozavarovalnica Sava d.d.",
+      "ticker": "POSR",
+      "delisted": false,
+      "year": 2010,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Sava_Re_letno_porocilo_2010.pdf",
+      "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2010.pdf"
+    },
+    {
+      "company": "Pozavarovalnica Sava d.d.",
+      "ticker": "POSR",
+      "delisted": false,
+      "year": 2009,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Sava_Re_letno_porocilo_2009.pdf",
+      "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2009.pdf"
+    },
+    {
+      "company": "Pozavarovalnica Sava d.d.",
+      "ticker": "POSR",
+      "delisted": false,
+      "year": 2008,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Sava_Re_letno_porocilo_2008.pdf",
+      "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2008.pdf"
+    },
+    {
+      "company": "Pozavarovalnica Sava d.d.",
+      "ticker": "POSR",
+      "delisted": false,
+      "year": null,
+      "docType": "ipo-brosura",
+      "format": "pdf",
+      "filename": "Sava_Re_IPO_brosura.pdf",
+      "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_IPO_brosura.pdf"
+    },
+    {
+      "company": "Relax d.d.",
+      "ticker": "RELR",
+      "delisted": false,
+      "year": 2024,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Relax_letno_porocilo_2024.pdf",
+      "url": "https://data.naborzi.si/Relax/Dokumenti/Relax_letno_porocilo_2024.pdf"
+    },
+    {
+      "company": "Relax d.d.",
+      "ticker": "RELR",
+      "delisted": false,
+      "year": null,
+      "docType": "ipo-brosura",
+      "format": "pdf",
+      "filename": "Relax_IPO_brosura.pdf",
+      "url": "https://data.naborzi.si/Relax/Dokumenti/Relax_IPO_brosura.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2025,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2025.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2025.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2024,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2024.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2024.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2023,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2023.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2023.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2022,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2022.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2022.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2021,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2021.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2021.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2020,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2020.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2020.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2019,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2019.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2019.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2018,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2018.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2018.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2017,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2017.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2017.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2016,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2016.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2016.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2015,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2015.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2015.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2014,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2014.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2014.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2013,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2013.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2013.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2012,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2012.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2012.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2011,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2011.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2011.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2010,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2010.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2010.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2009,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2009.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2009.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2008,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2008.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2008.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2007,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2007.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2007.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2006,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2006.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2006.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2005,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2005.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2005.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2004,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2004.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2004.pdf"
+    },
+    {
+      "company": "SALUS d.d.",
+      "ticker": "SALR",
+      "delisted": false,
+      "year": 2002,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Salus_letno_porocilo_2002.pdf",
+      "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2002.pdf"
+    },
+    {
+      "company": "Telekom Slovenije d.d.",
+      "ticker": "TLSG",
+      "delisted": false,
+      "year": 2024,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Telekom_Slovenije_letno_porocilo_2024.pdf",
+      "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2024.pdf"
+    },
+    {
+      "company": "Telekom Slovenije d.d.",
+      "ticker": "TLSG",
+      "delisted": false,
+      "year": 2023,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Telekom_Slovenije_letno_porocilo_2023.pdf",
+      "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2023.pdf"
+    },
+    {
+      "company": "Telekom Slovenije d.d.",
+      "ticker": "TLSG",
+      "delisted": false,
+      "year": 2022,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Telekom_Slovenije_letno_porocilo_2022.pdf",
+      "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2022.pdf"
+    },
+    {
+      "company": "Telekom Slovenije d.d.",
+      "ticker": "TLSG",
+      "delisted": false,
+      "year": 2021,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Telekom_Slovenije_letno_porocilo_2021.pdf",
+      "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2021.pdf"
+    },
+    {
+      "company": "Telekom Slovenije d.d.",
+      "ticker": "TLSG",
+      "delisted": false,
+      "year": 2020,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Telekom_Slovenije_letno_porocilo_2020.pdf",
+      "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2020.pdf"
+    },
+    {
+      "company": "Telekom Slovenije d.d.",
+      "ticker": "TLSG",
+      "delisted": false,
+      "year": 2019,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Telekom_Slovenije_letno_porocilo_2019.pdf",
+      "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2019.pdf"
+    },
+    {
+      "company": "Telekom Slovenije d.d.",
+      "ticker": "TLSG",
+      "delisted": false,
+      "year": 2018,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Telekom_Slovenije_letno_porocilo_2018.pdf",
+      "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2018.pdf"
+    },
+    {
+      "company": "Telekom Slovenije d.d.",
+      "ticker": "TLSG",
+      "delisted": false,
+      "year": 2017,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Telekom_Slovenije_letno_porocilo_2017.pdf",
+      "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2017.pdf"
+    },
+    {
+      "company": "Telekom Slovenije d.d.",
+      "ticker": "TLSG",
+      "delisted": false,
+      "year": 2016,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Telekom_Slovenije_letno_porocilo_2016.pdf",
+      "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2016.pdf"
+    },
+    {
+      "company": "Telekom Slovenije d.d.",
+      "ticker": "TLSG",
+      "delisted": false,
+      "year": 2015,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Telekom_Slovenije_letno_porocilo_2015.pdf",
+      "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2015.pdf"
+    },
+    {
+      "company": "Telekom Slovenije d.d.",
+      "ticker": "TLSG",
+      "delisted": false,
+      "year": 2014,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Telekom_Slovenije_letno_porocilo_2014.pdf",
+      "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2014.pdf"
+    },
+    {
+      "company": "Telekom Slovenije d.d.",
+      "ticker": "TLSG",
+      "delisted": false,
+      "year": 2013,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Telekom_Slovenije_letno_porocilo_2013.pdf",
+      "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2013.pdf"
+    },
+    {
+      "company": "Telekom Slovenije d.d.",
+      "ticker": "TLSG",
+      "delisted": false,
+      "year": 2012,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Telekom_Slovenije_letno_porocilo_2012.pdf",
+      "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2012.pdf"
+    },
+    {
+      "company": "Telekom Slovenije d.d.",
+      "ticker": "TLSG",
+      "delisted": false,
+      "year": 2011,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Telekom_Slovenije_letno_porocilo_2011.pdf",
+      "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2011.pdf"
+    },
+    {
+      "company": "Telekom Slovenije d.d.",
+      "ticker": "TLSG",
+      "delisted": false,
+      "year": 2010,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Telekom_Slovenije_letno_porocilo_2010.pdf",
+      "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2010.pdf"
+    },
+    {
+      "company": "Telekom Slovenije d.d.",
+      "ticker": "TLSG",
+      "delisted": false,
+      "year": 2009,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Telekom_Slovenije_letno_porocilo_2009.pdf",
+      "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2009.pdf"
+    },
+    {
+      "company": "Telekom Slovenije d.d.",
+      "ticker": "TLSG",
+      "delisted": false,
+      "year": 2006,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Telekom_Slovenije_letno_porocilo_2006.pdf",
+      "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2006.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2024,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2024.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2024.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2023,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2023.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2023.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2022,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2022.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2022.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2021,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2021.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2021.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2020,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2020.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2020.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2019,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2019.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2019.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2018,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2018.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2018.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2017,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2017.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2017.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2016,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2016.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2016.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2015,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2015.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2015.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2014,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2014.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2014.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2013,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2013.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2013.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2012,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2012.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2012.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2011,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2011.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2011.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2010,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2010.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2010.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2009,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2009.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2009.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2008,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2008.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2008.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2007,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2007.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2007.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2006,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2006.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2006.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2005,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2005.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2005.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2004,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2004.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2004.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2003,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2003.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2003.pdf"
+    },
+    {
+      "company": "Terme Čatež d.d.",
+      "ticker": "TCRG",
+      "delisted": false,
+      "year": 2002,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Terme_Catez_letno_porocilo_2002.pdf",
+      "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2002.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2024,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2024.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2024.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2023,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2023.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2023.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2022,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2022.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2022.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2021,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2021.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2021.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2020,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2020.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2020.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2019,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2019.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2019.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2018,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2018.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2018.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2017,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2017.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2017.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2016,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2016.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2016.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2015,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2015.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2015.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2014,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2014.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2014.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2013,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2013.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2013.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2012,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2012.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2012.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2011,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2011.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2011.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2010,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2010.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2010.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2009,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2009.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2009.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2008,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2008.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2008.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2007,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2007.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2007.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2006,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2006.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2006.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2005,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2005.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2005.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2004,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2004.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2004.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2003,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2003.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2003.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": 2002,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Unior_letno_porocilo_2002.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2002.pdf"
+    },
+    {
+      "company": "Unior d.d.",
+      "ticker": "UKIG",
+      "delisted": false,
+      "year": null,
+      "docType": "ipo-brosura",
+      "format": "pdf",
+      "filename": "Unior_IPO_brosura.pdf",
+      "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_IPO_brosura.pdf"
+    },
+    {
+      "company": "Vzajemna d.v.z.",
+      "ticker": "VZZR",
+      "delisted": false,
+      "year": null,
+      "docType": "ipo-brosura",
+      "format": "pdf",
+      "filename": "Vzajemna_IPO_brosura.pdf",
+      "url": "https://data.naborzi.si/Vzajemna/Dokumenti/Vzajemna_IPO_brosura.pdf"
+    },
+    {
+      "company": "Zavarovalnica Triglav d.d.",
+      "ticker": "ZVTG",
+      "delisted": false,
+      "year": 2024,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Zavarovalnica_Triglav_letno_porocilo_2024.pdf",
+      "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2024.pdf"
+    },
+    {
+      "company": "Zavarovalnica Triglav d.d.",
+      "ticker": "ZVTG",
+      "delisted": false,
+      "year": 2023,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Zavarovalnica_Triglav_letno_porocilo_2023.pdf",
+      "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2023.pdf"
+    },
+    {
+      "company": "Zavarovalnica Triglav d.d.",
+      "ticker": "ZVTG",
+      "delisted": false,
+      "year": 2022,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Zavarovalnica_Triglav_letno_porocilo_2022.pdf",
+      "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2022.pdf"
+    },
+    {
+      "company": "Zavarovalnica Triglav d.d.",
+      "ticker": "ZVTG",
+      "delisted": false,
+      "year": 2021,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Zavarovalnica_Triglav_letno_porocilo_2021.pdf",
+      "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2021.pdf"
+    },
+    {
+      "company": "Zavarovalnica Triglav d.d.",
+      "ticker": "ZVTG",
+      "delisted": false,
+      "year": 2020,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Zavarovalnica_Triglav_letno_porocilo_2020.pdf",
+      "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2020.pdf"
+    },
+    {
+      "company": "Zavarovalnica Triglav d.d.",
+      "ticker": "ZVTG",
+      "delisted": false,
+      "year": 2019,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Zavarovalnica_Triglav_letno_porocilo_2019.pdf",
+      "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2019.pdf"
+    },
+    {
+      "company": "Zavarovalnica Triglav d.d.",
+      "ticker": "ZVTG",
+      "delisted": false,
+      "year": 2018,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Zavarovalnica_Triglav_letno_porocilo_2018.pdf",
+      "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2018.pdf"
+    },
+    {
+      "company": "Zavarovalnica Triglav d.d.",
+      "ticker": "ZVTG",
+      "delisted": false,
+      "year": 2017,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Zavarovalnica_Triglav_letno_porocilo_2017.pdf",
+      "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2017.pdf"
+    },
+    {
+      "company": "Zavarovalnica Triglav d.d.",
+      "ticker": "ZVTG",
+      "delisted": false,
+      "year": 2016,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Zavarovalnica_Triglav_letno_porocilo_2016.pdf",
+      "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2016.pdf"
+    },
+    {
+      "company": "Zavarovalnica Triglav d.d.",
+      "ticker": "ZVTG",
+      "delisted": false,
+      "year": 2015,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Zavarovalnica_Triglav_letno_porocilo_2015.pdf",
+      "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2015.pdf"
+    },
+    {
+      "company": "Zavarovalnica Triglav d.d.",
+      "ticker": "ZVTG",
+      "delisted": false,
+      "year": 2014,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Zavarovalnica_Triglav_letno_porocilo_2014.pdf",
+      "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2014.pdf"
+    },
+    {
+      "company": "Zavarovalnica Triglav d.d.",
+      "ticker": "ZVTG",
+      "delisted": false,
+      "year": 2013,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Zavarovalnica_Triglav_letno_porocilo_2013.pdf",
+      "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2013.pdf"
+    },
+    {
+      "company": "Zavarovalnica Triglav d.d.",
+      "ticker": "ZVTG",
+      "delisted": false,
+      "year": 2012,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Zavarovalnica_Triglav_letno_porocilo_2012.pdf",
+      "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2012.pdf"
+    },
+    {
+      "company": "Zavarovalnica Triglav d.d.",
+      "ticker": "ZVTG",
+      "delisted": false,
+      "year": 2011,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Zavarovalnica_Triglav_letno_porocilo_2011.pdf",
+      "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2011.pdf"
+    },
+    {
+      "company": "Zavarovalnica Triglav d.d.",
+      "ticker": "ZVTG",
+      "delisted": false,
+      "year": 2010,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Zavarovalnica_Triglav_letno_porocilo_2010.pdf",
+      "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2010.pdf"
+    },
+    {
+      "company": "Zavarovalnica Triglav d.d.",
+      "ticker": "ZVTG",
+      "delisted": false,
+      "year": 2009,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Zavarovalnica_Triglav_letno_porocilo_2009.pdf",
+      "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2009.pdf"
+    },
+    {
+      "company": "Zavarovalnica Triglav d.d.",
+      "ticker": "ZVTG",
+      "delisted": false,
+      "year": 2008,
+      "docType": "letno-porocilo",
+      "format": "pdf",
+      "filename": "Zavarovalnica_Triglav_letno_porocilo_2008.pdf",
+      "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2008.pdf"
+    },
+    {
+      "company": "Zavarovalnica Triglav d.d.",
+      "ticker": "ZVTG",
+      "delisted": false,
+      "year": null,
+      "docType": "ipo-brosura",
+      "format": "pdf",
+      "filename": "Zavarovalnica_Triglav_IPO_brosura.pdf",
+      "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_IPO_brosura.pdf"
+    }
+  ]
+}
