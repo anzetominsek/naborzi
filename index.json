@@ -1,0 +1,2213 @@
+[
+  {
+    "id": "cetis",
+    "name": "CETIS d.d.",
+    "ticker": "CETG",
+    "folder": "Cetis",
+    "delisted": false,
+    "files": [
+      {
+        "name": "Cetis_letno_porocilo_2002.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2002,
+        "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2002.pdf"
+      },
+      {
+        "name": "Cetis_letno_porocilo_2004.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2004,
+        "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2004.pdf"
+      },
+      {
+        "name": "Cetis_letno_porocilo_2008.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2008,
+        "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2008.pdf"
+      },
+      {
+        "name": "Cetis_letno_porocilo_2009.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2009,
+        "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2009.pdf"
+      },
+      {
+        "name": "Cetis_letno_porocilo_2010.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2010,
+        "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2010.pdf"
+      },
+      {
+        "name": "Cetis_letno_porocilo_2011.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2011,
+        "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2011.pdf"
+      },
+      {
+        "name": "Cetis_letno_porocilo_2012.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2012,
+        "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2012.pdf"
+      },
+      {
+        "name": "Cetis_letno_porocilo_2013.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2013,
+        "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2013.pdf"
+      },
+      {
+        "name": "Cetis_letno_porocilo_2014.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2014,
+        "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2014.pdf"
+      },
+      {
+        "name": "Cetis_letno_porocilo_2015.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2015,
+        "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2015.pdf"
+      },
+      {
+        "name": "Cetis_letno_porocilo_2016.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2016,
+        "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2016.pdf"
+      },
+      {
+        "name": "Cetis_letno_porocilo_2017.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2017,
+        "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2017.pdf"
+      },
+      {
+        "name": "Cetis_letno_porocilo_2018.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2018,
+        "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2018.pdf"
+      },
+      {
+        "name": "Cetis_letno_porocilo_2019.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2019,
+        "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2019.pdf"
+      },
+      {
+        "name": "Cetis_letno_porocilo_2020.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2020,
+        "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2020.pdf"
+      },
+      {
+        "name": "Cetis_letno_porocilo_2021.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2021,
+        "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2021.pdf"
+      },
+      {
+        "name": "Cetis_letno_porocilo_2022.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2022,
+        "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2022.pdf"
+      },
+      {
+        "name": "Cetis_letno_porocilo_2023.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2023,
+        "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2023.pdf"
+      },
+      {
+        "name": "Cetis_letno_porocilo_2024.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2024,
+        "url": "https://data.naborzi.si/Cetis/Dokumenti/Cetis_letno_porocilo_2024.pdf"
+      }
+    ]
+  },
+  {
+    "id": "cinkarna_celje",
+    "name": "Cinkarna Celje d.d.",
+    "ticker": "CICG",
+    "folder": "Cinkarna_Celje",
+    "delisted": false,
+    "files": [
+      {
+        "name": "Cinkarna_Celje_letno_porocilo_2002.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2002,
+        "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2002.pdf"
+      },
+      {
+        "name": "Cinkarna_Celje_letno_porocilo_2003.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2003,
+        "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2003.pdf"
+      },
+      {
+        "name": "Cinkarna_Celje_letno_porocilo_2009.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2009,
+        "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2009.pdf"
+      },
+      {
+        "name": "Cinkarna_Celje_letno_porocilo_2010.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2010,
+        "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2010.pdf"
+      },
+      {
+        "name": "Cinkarna_Celje_letno_porocilo_2011.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2011,
+        "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2011.pdf"
+      },
+      {
+        "name": "Cinkarna_Celje_letno_porocilo_2012.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2012,
+        "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2012.pdf"
+      },
+      {
+        "name": "Cinkarna_Celje_letno_porocilo_2013.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2013,
+        "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2013.pdf"
+      },
+      {
+        "name": "Cinkarna_Celje_letno_porocilo_2014.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2014,
+        "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2014.pdf"
+      },
+      {
+        "name": "Cinkarna_Celje_letno_porocilo_2015.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2015,
+        "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2015.pdf"
+      },
+      {
+        "name": "Cinkarna_Celje_letno_porocilo_2016.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2016,
+        "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2016.pdf"
+      },
+      {
+        "name": "Cinkarna_Celje_letno_porocilo_2017.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2017,
+        "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2017.pdf"
+      },
+      {
+        "name": "Cinkarna_Celje_letno_porocilo_2018.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2018,
+        "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2018.pdf"
+      },
+      {
+        "name": "Cinkarna_Celje_letno_porocilo_2019.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2019,
+        "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2019.pdf"
+      },
+      {
+        "name": "Cinkarna_Celje_letno_porocilo_2020.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2020,
+        "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2020.pdf"
+      },
+      {
+        "name": "Cinkarna_Celje_letno_porocilo_2021.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2021,
+        "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2021.pdf"
+      },
+      {
+        "name": "Cinkarna_Celje_letno_porocilo_2022.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2022,
+        "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2022.pdf"
+      },
+      {
+        "name": "Cinkarna_Celje_letno_porocilo_2023.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2023,
+        "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2023.pdf"
+      },
+      {
+        "name": "Cinkarna_Celje_letno_porocilo_2024.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2024,
+        "url": "https://data.naborzi.si/Cinkarna_Celje/Dokumenti/Cinkarna_Celje_letno_porocilo_2024.pdf"
+      }
+    ]
+  },
+  {
+    "id": "equinox",
+    "name": "Equinox nepremičnine d.d.",
+    "ticker": "EQNX",
+    "folder": "Equinox",
+    "delisted": false,
+    "files": [
+      {
+        "name": "Equinox_IPO_brosura.pdf",
+        "type": "pdf",
+        "docType": "ipo-brosura",
+        "year": null,
+        "url": "https://data.naborzi.si/Equinox/Dokumenti/Equinox_IPO_brosura.pdf"
+      },
+      {
+        "name": "Equinox_letno_porocilo_2021.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2021,
+        "url": "https://data.naborzi.si/Equinox/Dokumenti/Equinox_letno_porocilo_2021.pdf"
+      },
+      {
+        "name": "Equinox_letno_porocilo_2022.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2022,
+        "url": "https://data.naborzi.si/Equinox/Dokumenti/Equinox_letno_porocilo_2022.pdf"
+      },
+      {
+        "name": "Equinox_letno_porocilo_2023.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2023,
+        "url": "https://data.naborzi.si/Equinox/Dokumenti/Equinox_letno_porocilo_2023.pdf"
+      },
+      {
+        "name": "Equinox_letno_porocilo_2024.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2024,
+        "url": "https://data.naborzi.si/Equinox/Dokumenti/Equinox_letno_porocilo_2024.pdf"
+      },
+      {
+        "name": "Equinox_letno_porocilo_2025.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2025,
+        "url": "https://data.naborzi.si/Equinox/Dokumenti/Equinox_letno_porocilo_2025.pdf"
+      }
+    ]
+  },
+  {
+    "id": "arhiv-kd",
+    "name": "KD, finančna družba d.d.",
+    "ticker": "SKDR",
+    "folder": "Arhiv/KD",
+    "delisted": true,
+    "files": [
+      {
+        "name": "KD_letno_porocilo_2002.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2002,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2002.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2003.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2003,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2003.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2004.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2004,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2004.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2005.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2005,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2005.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2006.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2006,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2006.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2007.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2007,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2007.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2008.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2008,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2008.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2009.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2009,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2009.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2010.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2010,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2010.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2011.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2011,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2011.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2012.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2012,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2012.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2013.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2013,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2013.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2014.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2014,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2014.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2015.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2015,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2015.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2016.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2016,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2016.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2017.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2017,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2017.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2018.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2018,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2018.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2019.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2019,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2019.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2020.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2020,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2020.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2021.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2021,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2021.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2022.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2022,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2022.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2023.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2023,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2023.pdf"
+      },
+      {
+        "name": "KD_letno_porocilo_2024.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2024,
+        "url": "https://data.naborzi.si/Arhiv/KD/Dokumenti/KD_letno_porocilo_2024.pdf"
+      }
+    ]
+  },
+  {
+    "id": "krka",
+    "name": "Krka d.d.",
+    "ticker": "KRKG",
+    "folder": "Krka",
+    "delisted": false,
+    "files": [
+      {
+        "name": "Krka_letno_porocilo_2002.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2002,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2002.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2003.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2003,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2003.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2004.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2004,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2004.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2005.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2005,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2005.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2006.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2006,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2006.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2007.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2007,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2007.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2008.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2008,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2008.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2009.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2009,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2009.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2010.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2010,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2010.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2011.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2011,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2011.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2012.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2012,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2012.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2013.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2013,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2013.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2014.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2014,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2014.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2015.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2015,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2015.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2016.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2016,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2016.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2017.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2017,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2017.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2018.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2018,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2018.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2019.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2019,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2019.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2020.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2020,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2020.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2021.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2021,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2021.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2022.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2022,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2022.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2023.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2023,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2023.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2024.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2024,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2024.pdf"
+      },
+      {
+        "name": "Krka_letno_porocilo_2025.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2025,
+        "url": "https://data.naborzi.si/Krka/Dokumenti/Krka_letno_porocilo_2025.pdf"
+      }
+    ]
+  },
+  {
+    "id": "luka_koper",
+    "name": "Luka Koper d.d.",
+    "ticker": "LKPG",
+    "folder": "Luka_Koper",
+    "delisted": false,
+    "files": [
+      {
+        "name": "Luka_Koper_letno_porocilo_2000.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2000,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2000.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2001.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2001,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2001.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2002.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2002,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2002.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2003.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2003,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2003.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2004.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2004,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2004.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2005.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2005,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2005.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2006.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2006,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2006.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2007.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2007,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2007.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2008.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2008,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2008.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2009.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2009,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2009.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2010.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2010,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2010.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2011.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2011,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2011.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2012.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2012,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2012.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2013.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2013,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2013.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2014.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2014,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2014.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2015.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2015,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2015.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2016.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2016,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2016.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2017.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2017,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2017.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2018.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2018,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2018.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2019.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2019,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2019.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2020.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2020,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2020.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2021.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2021,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2021.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2022.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2022,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2022.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2023.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2023,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2023.pdf"
+      },
+      {
+        "name": "Luka_Koper_letno_porocilo_2024.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2024,
+        "url": "https://data.naborzi.si/Luka_Koper/Dokumenti/Luka_Koper_letno_porocilo_2024.pdf"
+      }
+    ]
+  },
+  {
+    "id": "melamin",
+    "name": "Melamin d.d.",
+    "ticker": "MKOG",
+    "folder": "Melamin",
+    "delisted": false,
+    "files": [
+      {
+        "name": "Melamin_letno_porocilo_2002.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2002,
+        "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2002.pdf"
+      },
+      {
+        "name": "Melamin_letno_porocilo_2008.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2008,
+        "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2008.pdf"
+      },
+      {
+        "name": "Melamin_letno_porocilo_2009.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2009,
+        "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2009.pdf"
+      },
+      {
+        "name": "Melamin_letno_porocilo_2010.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2010,
+        "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2010.pdf"
+      },
+      {
+        "name": "Melamin_letno_porocilo_2011.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2011,
+        "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2011.pdf"
+      },
+      {
+        "name": "Melamin_letno_porocilo_2012.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2012,
+        "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2012.pdf"
+      },
+      {
+        "name": "Melamin_letno_porocilo_2013.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2013,
+        "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2013.pdf"
+      },
+      {
+        "name": "Melamin_letno_porocilo_2014.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2014,
+        "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2014.pdf"
+      },
+      {
+        "name": "Melamin_letno_porocilo_2015.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2015,
+        "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2015.pdf"
+      },
+      {
+        "name": "Melamin_letno_porocilo_2016.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2016,
+        "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2016.pdf"
+      },
+      {
+        "name": "Melamin_letno_porocilo_2017.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2017,
+        "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2017.pdf"
+      },
+      {
+        "name": "Melamin_letno_porocilo_2018.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2018,
+        "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2018.pdf"
+      },
+      {
+        "name": "Melamin_letno_porocilo_2019.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2019,
+        "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2019.pdf"
+      },
+      {
+        "name": "Melamin_letno_porocilo_2020.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2020,
+        "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2020.pdf"
+      },
+      {
+        "name": "Melamin_letno_porocilo_2021.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2021,
+        "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2021.pdf"
+      },
+      {
+        "name": "Melamin_letno_porocilo_2022.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2022,
+        "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2022.pdf"
+      },
+      {
+        "name": "Melamin_letno_porocilo_2023.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2023,
+        "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2023.pdf"
+      },
+      {
+        "name": "Melamin_letno_porocilo_2024.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2024,
+        "url": "https://data.naborzi.si/Melamin/Dokumenti/Melamin_letno_porocilo_2024.pdf"
+      }
+    ]
+  },
+  {
+    "id": "nlb",
+    "name": "Nova Ljubljanska Banka d.d.",
+    "ticker": "NLBR",
+    "folder": "NLB",
+    "delisted": false,
+    "files": [
+      {
+        "name": "NLB_IPO_brosura.pdf",
+        "type": "pdf",
+        "docType": "ipo-brosura",
+        "year": null,
+        "url": "https://data.naborzi.si/NLB/Dokumenti/NLB_IPO_brosura.pdf"
+      },
+      {
+        "name": "NLB_letno_porocilo_2018.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2018,
+        "url": "https://data.naborzi.si/NLB/Dokumenti/NLB_letno_porocilo_2018.pdf"
+      },
+      {
+        "name": "NLB_letno_porocilo_2019.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2019,
+        "url": "https://data.naborzi.si/NLB/Dokumenti/NLB_letno_porocilo_2019.pdf"
+      },
+      {
+        "name": "NLB_letno_porocilo_2020.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2020,
+        "url": "https://data.naborzi.si/NLB/Dokumenti/NLB_letno_porocilo_2020.pdf"
+      },
+      {
+        "name": "NLB_letno_porocilo_2021.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2021,
+        "url": "https://data.naborzi.si/NLB/Dokumenti/NLB_letno_porocilo_2021.pdf"
+      },
+      {
+        "name": "NLB_letno_porocilo_2022.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2022,
+        "url": "https://data.naborzi.si/NLB/Dokumenti/NLB_letno_porocilo_2022.pdf"
+      },
+      {
+        "name": "NLB_letno_porocilo_2023.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2023,
+        "url": "https://data.naborzi.si/NLB/Dokumenti/NLB_letno_porocilo_2023.pdf"
+      },
+      {
+        "name": "NLB_letno_porocilo_2024.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2024,
+        "url": "https://data.naborzi.si/NLB/Dokumenti/NLB_letno_porocilo_2024.pdf"
+      },
+      {
+        "name": "NLB_letno_porocilo_2025.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2025,
+        "url": "https://data.naborzi.si/NLB/Dokumenti/NLB_letno_porocilo_2025.pdf"
+      }
+    ]
+  },
+  {
+    "id": "petrol",
+    "name": "Petrol d.d.",
+    "ticker": "PETG",
+    "folder": "Petrol",
+    "delisted": false,
+    "files": [
+      {
+        "name": "Petrol_letno_porocilo_2001.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2001,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2001.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2002.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2002,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2002.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2003.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2003,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2003.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2004.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2004,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2004.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2005.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2005,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2005.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2006.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2006,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2006.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2007.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2007,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2007.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2008.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2008,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2008.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2009.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2009,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2009.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2010.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2010,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2010.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2011.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2011,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2011.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2012.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2012,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2012.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2013.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2013,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2013.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2014.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2014,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2014.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2015.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2015,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2015.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2016.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2016,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2016.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2017.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2017,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2017.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2018.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2018,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2018.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2019.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2019,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2019.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2020.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2020,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2020.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2021.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2021,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2021.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2022.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2022,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2022.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2023.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2023,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2023.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2024.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2024,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2024.pdf"
+      },
+      {
+        "name": "Petrol_letno_porocilo_2025.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2025,
+        "url": "https://data.naborzi.si/Petrol/Dokumenti/Petrol_letno_porocilo_2025.pdf"
+      }
+    ]
+  },
+  {
+    "id": "sava_re",
+    "name": "Pozavarovalnica Sava d.d.",
+    "ticker": "POSR",
+    "folder": "Sava_Re",
+    "delisted": false,
+    "files": [
+      {
+        "name": "Sava_Re_IPO_brosura.pdf",
+        "type": "pdf",
+        "docType": "ipo-brosura",
+        "year": null,
+        "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_IPO_brosura.pdf"
+      },
+      {
+        "name": "Sava_Re_letno_porocilo_2008.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2008,
+        "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2008.pdf"
+      },
+      {
+        "name": "Sava_Re_letno_porocilo_2009.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2009,
+        "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2009.pdf"
+      },
+      {
+        "name": "Sava_Re_letno_porocilo_2010.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2010,
+        "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2010.pdf"
+      },
+      {
+        "name": "Sava_Re_letno_porocilo_2011.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2011,
+        "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2011.pdf"
+      },
+      {
+        "name": "Sava_Re_letno_porocilo_2012.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2012,
+        "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2012.pdf"
+      },
+      {
+        "name": "Sava_Re_letno_porocilo_2013.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2013,
+        "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2013.pdf"
+      },
+      {
+        "name": "Sava_Re_letno_porocilo_2014.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2014,
+        "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2014.pdf"
+      },
+      {
+        "name": "Sava_Re_letno_porocilo_2015.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2015,
+        "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2015.pdf"
+      },
+      {
+        "name": "Sava_Re_letno_porocilo_2016.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2016,
+        "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2016.pdf"
+      },
+      {
+        "name": "Sava_Re_letno_porocilo_2017.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2017,
+        "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2017.pdf"
+      },
+      {
+        "name": "Sava_Re_letno_porocilo_2018.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2018,
+        "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2018.pdf"
+      },
+      {
+        "name": "Sava_Re_letno_porocilo_2019.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2019,
+        "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2019.pdf"
+      },
+      {
+        "name": "Sava_Re_letno_porocilo_2020.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2020,
+        "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2020.pdf"
+      },
+      {
+        "name": "Sava_Re_letno_porocilo_2021.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2021,
+        "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2021.pdf"
+      },
+      {
+        "name": "Sava_Re_letno_porocilo_2022.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2022,
+        "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2022.pdf"
+      },
+      {
+        "name": "Sava_Re_letno_porocilo_2023.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2023,
+        "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2023.pdf"
+      },
+      {
+        "name": "Sava_Re_letno_porocilo_2024.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2024,
+        "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2024.pdf"
+      },
+      {
+        "name": "Sava_Re_letno_porocilo_2025.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2025,
+        "url": "https://data.naborzi.si/Sava_Re/Dokumenti/Sava_Re_letno_porocilo_2025.pdf"
+      }
+    ]
+  },
+  {
+    "id": "relax",
+    "name": "Relax d.d.",
+    "ticker": "RELR",
+    "folder": "Relax",
+    "delisted": false,
+    "files": [
+      {
+        "name": "Relax_IPO_brosura.pdf",
+        "type": "pdf",
+        "docType": "ipo-brosura",
+        "year": null,
+        "url": "https://data.naborzi.si/Relax/Dokumenti/Relax_IPO_brosura.pdf"
+      },
+      {
+        "name": "Relax_letno_porocilo_2024.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2024,
+        "url": "https://data.naborzi.si/Relax/Dokumenti/Relax_letno_porocilo_2024.pdf"
+      }
+    ]
+  },
+  {
+    "id": "salus",
+    "name": "SALUS d.d.",
+    "ticker": "SALR",
+    "folder": "Salus",
+    "delisted": false,
+    "files": [
+      {
+        "name": "Salus_letno_porocilo_2002.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2002,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2002.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2004.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2004,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2004.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2005.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2005,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2005.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2006.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2006,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2006.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2007.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2007,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2007.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2008.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2008,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2008.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2009.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2009,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2009.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2010.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2010,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2010.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2011.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2011,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2011.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2012.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2012,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2012.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2013.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2013,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2013.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2014.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2014,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2014.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2015.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2015,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2015.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2016.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2016,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2016.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2017.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2017,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2017.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2018.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2018,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2018.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2019.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2019,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2019.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2020.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2020,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2020.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2021.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2021,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2021.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2022.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2022,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2022.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2023.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2023,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2023.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2024.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2024,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2024.pdf"
+      },
+      {
+        "name": "Salus_letno_porocilo_2025.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2025,
+        "url": "https://data.naborzi.si/Salus/Dokumenti/Salus_letno_porocilo_2025.pdf"
+      }
+    ]
+  },
+  {
+    "id": "telekom_slovenije",
+    "name": "Telekom Slovenije d.d.",
+    "ticker": "TLSG",
+    "folder": "Telekom_Slovenije",
+    "delisted": false,
+    "files": [
+      {
+        "name": "Telekom_Slovenije_letno_porocilo_2006.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2006,
+        "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2006.pdf"
+      },
+      {
+        "name": "Telekom_Slovenije_letno_porocilo_2009.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2009,
+        "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2009.pdf"
+      },
+      {
+        "name": "Telekom_Slovenije_letno_porocilo_2010.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2010,
+        "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2010.pdf"
+      },
+      {
+        "name": "Telekom_Slovenije_letno_porocilo_2011.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2011,
+        "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2011.pdf"
+      },
+      {
+        "name": "Telekom_Slovenije_letno_porocilo_2012.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2012,
+        "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2012.pdf"
+      },
+      {
+        "name": "Telekom_Slovenije_letno_porocilo_2013.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2013,
+        "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2013.pdf"
+      },
+      {
+        "name": "Telekom_Slovenije_letno_porocilo_2014.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2014,
+        "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2014.pdf"
+      },
+      {
+        "name": "Telekom_Slovenije_letno_porocilo_2015.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2015,
+        "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2015.pdf"
+      },
+      {
+        "name": "Telekom_Slovenije_letno_porocilo_2016.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2016,
+        "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2016.pdf"
+      },
+      {
+        "name": "Telekom_Slovenije_letno_porocilo_2017.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2017,
+        "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2017.pdf"
+      },
+      {
+        "name": "Telekom_Slovenije_letno_porocilo_2018.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2018,
+        "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2018.pdf"
+      },
+      {
+        "name": "Telekom_Slovenije_letno_porocilo_2019.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2019,
+        "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2019.pdf"
+      },
+      {
+        "name": "Telekom_Slovenije_letno_porocilo_2020.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2020,
+        "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2020.pdf"
+      },
+      {
+        "name": "Telekom_Slovenije_letno_porocilo_2021.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2021,
+        "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2021.pdf"
+      },
+      {
+        "name": "Telekom_Slovenije_letno_porocilo_2022.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2022,
+        "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2022.pdf"
+      },
+      {
+        "name": "Telekom_Slovenije_letno_porocilo_2023.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2023,
+        "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2023.pdf"
+      },
+      {
+        "name": "Telekom_Slovenije_letno_porocilo_2024.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2024,
+        "url": "https://data.naborzi.si/Telekom_Slovenije/Dokumenti/Telekom_Slovenije_letno_porocilo_2024.pdf"
+      }
+    ]
+  },
+  {
+    "id": "terme_catez",
+    "name": "Terme Čatež d.d.",
+    "ticker": "TCRG",
+    "folder": "Terme_Catez",
+    "delisted": false,
+    "files": [
+      {
+        "name": "Terme_Catez_letno_porocilo_2002.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2002,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2002.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2003.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2003,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2003.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2004.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2004,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2004.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2005.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2005,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2005.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2006.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2006,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2006.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2007.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2007,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2007.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2008.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2008,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2008.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2009.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2009,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2009.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2010.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2010,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2010.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2011.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2011,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2011.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2012.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2012,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2012.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2013.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2013,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2013.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2014.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2014,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2014.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2015.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2015,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2015.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2016.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2016,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2016.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2017.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2017,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2017.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2018.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2018,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2018.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2019.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2019,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2019.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2020.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2020,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2020.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2021.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2021,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2021.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2022.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2022,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2022.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2023.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2023,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2023.pdf"
+      },
+      {
+        "name": "Terme_Catez_letno_porocilo_2024.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2024,
+        "url": "https://data.naborzi.si/Terme_Catez/Dokumenti/Terme_Catez_letno_porocilo_2024.pdf"
+      }
+    ]
+  },
+  {
+    "id": "unior",
+    "name": "Unior d.d.",
+    "ticker": "UKIG",
+    "folder": "Unior",
+    "delisted": false,
+    "files": [
+      {
+        "name": "Unior_IPO_brosura.pdf",
+        "type": "pdf",
+        "docType": "ipo-brosura",
+        "year": null,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_IPO_brosura.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2002.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2002,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2002.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2003.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2003,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2003.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2004.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2004,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2004.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2005.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2005,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2005.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2006.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2006,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2006.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2007.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2007,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2007.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2008.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2008,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2008.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2009.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2009,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2009.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2010.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2010,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2010.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2011.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2011,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2011.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2012.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2012,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2012.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2013.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2013,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2013.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2014.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2014,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2014.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2015.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2015,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2015.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2016.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2016,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2016.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2017.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2017,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2017.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2018.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2018,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2018.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2019.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2019,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2019.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2020.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2020,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2020.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2021.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2021,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2021.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2022.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2022,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2022.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2023.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2023,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2023.pdf"
+      },
+      {
+        "name": "Unior_letno_porocilo_2024.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2024,
+        "url": "https://data.naborzi.si/Unior/Dokumenti/Unior_letno_porocilo_2024.pdf"
+      }
+    ]
+  },
+  {
+    "id": "vzajemna",
+    "name": "Vzajemna d.v.z.",
+    "ticker": "VZZR",
+    "folder": "Vzajemna",
+    "delisted": false,
+    "files": [
+      {
+        "name": "Vzajemna_IPO_brosura.pdf",
+        "type": "pdf",
+        "docType": "ipo-brosura",
+        "year": null,
+        "url": "https://data.naborzi.si/Vzajemna/Dokumenti/Vzajemna_IPO_brosura.pdf"
+      }
+    ]
+  },
+  {
+    "id": "zavarovalnica_triglav",
+    "name": "Zavarovalnica Triglav d.d.",
+    "ticker": "ZVTG",
+    "folder": "Zavarovalnica_Triglav",
+    "delisted": false,
+    "files": [
+      {
+        "name": "Zavarovalnica_Triglav_IPO_brosura.pdf",
+        "type": "pdf",
+        "docType": "ipo-brosura",
+        "year": null,
+        "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_IPO_brosura.pdf"
+      },
+      {
+        "name": "Zavarovalnica_Triglav_letno_porocilo_2008.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2008,
+        "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2008.pdf"
+      },
+      {
+        "name": "Zavarovalnica_Triglav_letno_porocilo_2009.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2009,
+        "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2009.pdf"
+      },
+      {
+        "name": "Zavarovalnica_Triglav_letno_porocilo_2010.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2010,
+        "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2010.pdf"
+      },
+      {
+        "name": "Zavarovalnica_Triglav_letno_porocilo_2011.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2011,
+        "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2011.pdf"
+      },
+      {
+        "name": "Zavarovalnica_Triglav_letno_porocilo_2012.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2012,
+        "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2012.pdf"
+      },
+      {
+        "name": "Zavarovalnica_Triglav_letno_porocilo_2013.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2013,
+        "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2013.pdf"
+      },
+      {
+        "name": "Zavarovalnica_Triglav_letno_porocilo_2014.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2014,
+        "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2014.pdf"
+      },
+      {
+        "name": "Zavarovalnica_Triglav_letno_porocilo_2015.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2015,
+        "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2015.pdf"
+      },
+      {
+        "name": "Zavarovalnica_Triglav_letno_porocilo_2016.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2016,
+        "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2016.pdf"
+      },
+      {
+        "name": "Zavarovalnica_Triglav_letno_porocilo_2017.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2017,
+        "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2017.pdf"
+      },
+      {
+        "name": "Zavarovalnica_Triglav_letno_porocilo_2018.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2018,
+        "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2018.pdf"
+      },
+      {
+        "name": "Zavarovalnica_Triglav_letno_porocilo_2019.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2019,
+        "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2019.pdf"
+      },
+      {
+        "name": "Zavarovalnica_Triglav_letno_porocilo_2020.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2020,
+        "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2020.pdf"
+      },
+      {
+        "name": "Zavarovalnica_Triglav_letno_porocilo_2021.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2021,
+        "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2021.pdf"
+      },
+      {
+        "name": "Zavarovalnica_Triglav_letno_porocilo_2022.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2022,
+        "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2022.pdf"
+      },
+      {
+        "name": "Zavarovalnica_Triglav_letno_porocilo_2023.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2023,
+        "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2023.pdf"
+      },
+      {
+        "name": "Zavarovalnica_Triglav_letno_porocilo_2024.pdf",
+        "type": "pdf",
+        "docType": "letno-porocilo",
+        "year": 2024,
+        "url": "https://data.naborzi.si/Zavarovalnica_Triglav/Dokumenti/Zavarovalnica_Triglav_letno_porocilo_2024.pdf"
+      }
+    ]
+  }
+]
